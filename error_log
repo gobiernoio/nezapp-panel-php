@@ -1,0 +1,2 @@
+[31-May-2017 02:18:49 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'revistg4_alberto'@'localhost' (using password: YES) in /home/hmediahosting/gobierno.io/nezapp/configuracion.php on line 21
+[31-May-2017 02:41:33 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/hmediahosting/gobierno.io/nezapp/sesion-validar.php on line 29
